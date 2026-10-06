@@ -38,6 +38,7 @@ Featured Research Projects
 3. 분석 난제 극복 및 다각도의 MoA 검증 플랫폼 구축
 - 	hpCrdA (구리 샤페론): Cu(I) 이온의 산화 민감성 및 저결합력 한계를 극복하기 위해 항산화 완충액 제어와 크로마토그래피 분리 후 정량을 결합한 'SEC-BCA 융합 분석법' 독자 고안 $\rightarrow$ 1년 만에 이온 결합 특이성 증명 (FEBS J. 2026, 제1저자)
 <img width="300" height="389" alt="CrdA" src="https://github.com/user-attachments/assets/fc6b92e4-564c-40e8-b5fc-e8ce1f295c71" />
+
 - 	lmDegU (전사 조절 인자): 단백질 안정화 조건(고농도 이온)과 DNA 결합 분석 조건(저농도 이온)의 충돌을 단백질 침전 임계점 계산 기반의 단계별 희석 프로토콜로 해결 $\rightarrow$ FP assay 정량적 결합 데이터 도출 (Sci. Rep. 2022, 제1저자)
 <img width="493" height="357" alt="DegU" src="https://github.com/user-attachments/assets/26683079-6013-49c8-a72e-f01f3d15c5f4" />
 
