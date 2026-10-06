@@ -18,13 +18,13 @@ Tech Stack & Research Tools
 
 Featured Research Projects
 1. AlphaFold 기반 가용화 분절체(Construct) 설계 및 복합체 구조 규명
-  - 	Target: 당전이효소 bcGmaR
-  - 	Problem: 극저발현으로 인해 연구 불가
-  - 	Approach:
-      - AlphaFold2 구조 모델링 및 도메인 경계 분석을 통한 가용성 극대화 분절체 설계
-      - 고순도 정제 및 X-선 결정학을 통한 기질(당공여체·이온) 복합체 3차원 구조 규명
-      - In Silico 모델과 상동체(Homolog) 구조 중첩(Superposition)으로 미지의 기질 결합 잔기 예측 및 돌연변이 실험 검증
-  - 	Result: 플라젤린 당화 효소의 촉매 기전 최초 규명 (Int. J. Biol. Macromol. 2026, IF 8.5, 제1저자)
+- 	Target: 당전이효소 bcGmaR
+- 	Problem: 극저발현으로 인해 연구 불가
+- 	Approach:
+    - AlphaFold2 구조 모델링 및 도메인 경계 분석을 통한 가용성 극대화 분절체 설계
+    - 고순도 정제 및 X-선 결정학을 통한 기질(당공여체·이온) 복합체 3차원 구조 규명
+    - In Silico 모델과 상동체(Homolog) 구조 중첩(Superposition)으로 미지의 기질 결합 잔기 예측 및 돌연변이 실험 검증
+- 	Result: 플라젤린 당화 효소의 촉매 기전 최초 규명 (Int. J. Biol. Macromol. 2026, IF 8.5, 제1저자)
 <img width="551" height="499" alt="bcGmaR" src="https://github.com/user-attachments/assets/93e89824-93c3-4da6-8337-169d4bb06e36" />
 
 2. 면역 수용체 TLR5 대량 생산 및 신약 후보물질 유효성($K_d$) 정량 검증
