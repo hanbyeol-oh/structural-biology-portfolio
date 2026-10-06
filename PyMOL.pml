@@ -1,4 +1,8 @@
-PyMOL script for rendering binding interface
+# ==============================================================================
+# PyMOL script for protein structure visualization and analysis
+# Description: setup for 3D cartoon display, surface, and ray rendering
+# ==============================================================================
+
 turn x, 90
 set_view
 set ray_shadows, 0
