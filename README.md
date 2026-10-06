@@ -12,9 +12,9 @@ About Me
 
 Tech Stack & Research Tools
 분류	상세 기술 및 도구	숙련도
-In Silico & Computation	PyMOL, AlphaFold2/3, PHENIX, Coot, HKL2000	Advanced
-Biophysical Analysis	Octet (BLI, $K_d$ 정량화), Tecan FP assay, UV-VIS/BCA, Native PAGE	Advanced
-Protein Preparation	FPLC (ÄKTA Pure - Affinity, IEX, SEC), E. coli & Insect cell expression	Advanced
+- 	In Silico & Computation	PyMOL, AlphaFold2/3, PHENIX, Coot, HKL2000	Advanced
+- 	Biophysical Analysis	Octet (BLI, $K_d$ 정량화), Tecan FP assay, UV-VIS/BCA, Native PAGE	Advanced
+- 	Protein Preparation	FPLC (ÄKTA Pure - Affinity, IEX, SEC), E. coli & Insect cell expression	Advanced
 
 Featured Research Projects
 1. AlphaFold 기반 가용화 분절체(Construct) 설계 및 복합체 구조 규명
