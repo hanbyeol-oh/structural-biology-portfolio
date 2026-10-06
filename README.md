@@ -2,12 +2,12 @@ Portfolio: Structural Biology & In Silico Protein Optimization
 정밀 구조 해석과 분자 최적화로 개발가능성(Developability)을 높이는 구조생물학 연구원, 오한별입니다.
 
 About Me
-- 	학력: 생화학·구조생물학 박사 (Ph.D. in Structural Biology & Biochemistry)
+- 	학력: 구조생물학 박사 (Ph.D. in Structural Biology)
 - 	주요 연구 분야:
-    - 단백질 3차원 구조 규명 (X-ray Crystallography) 및 In Silico 분자 모델링
-    - AlphaFold 기반 단백질 가용화 분절체(Truncated Construct) 설계
-    - 생물물리화학적 인터페이스 분석 및 작용기전(MoA) 정량 검증 ($K_d$, Kinetics)
-    - 단백질 발현·정제 물성 제어 및 Downstream 공정 트러블슈팅
+    - 단백질 3차원 구조 규명 (X-ray crystallography) 및 in silico 분자 모델링
+    - AlphaFold 기반 단백질 가용화 분절체(truncated construct) 설계
+    - 생물물리화학적 인터페이스 분석 및 작용기전(MoA) 정량 검증 ($K_d$, kinetics)
+    - 단백질 발현·정제 물성 제어 및 downstream 공정 트러블슈팅
 - 	실적 요약: 주저자 6편 포함 SCI(E) 총 13편 게재 | 한국연구재단 과제책임자(PI) | 미국결정학회(ACA) travel grant 수혜
 
 Tech Stack & Research Tools
