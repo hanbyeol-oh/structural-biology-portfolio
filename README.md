@@ -26,6 +26,7 @@ Featured Research Projects
     - In Silico 모델과 상동체(Homolog) 구조 중첩(Superposition)으로 미지의 기질 결합 잔기 예측 및 돌연변이 실험 검증
 - 	Result: 플라젤린 당화 효소의 촉매 기전 최초 규명 (Int. J. Biol. Macromol. 2026, IF 8.5, 제1저자)
 <img width="551" height="499" alt="bcGmaR" src="https://github.com/user-attachments/assets/93e89824-93c3-4da6-8337-169d4bb06e36" />
+
 2. 면역 수용체 TLR5 대량 생산 및 신약 후보물질 유효성($K_d$) 정량 검증
 - 	Collaborator: 국내 면역치료제 개발 바이오텍 (M社 산학 협력 과제 전담)
 - 	Problem: 대장균 발현이 불가능한 고난도 막단백질 수용체 TLR5 확보 및 신약 후보물질과의 결합력 검증 요구
