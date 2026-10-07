@@ -1,9 +1,15 @@
 # ==============================================================================
-# Script: Standardized Secondary Structure Assignment using DSSP
+# Script: Standardized Secondary Structure Assignment
+# Tools: DSSP (mkdssp) & dssp2pdb
 # Purpose:
 #   Eliminates discrepancies in secondary structure definitions when comparing
-#   experimental structures (X-ray) with AI-predicted models (e.g., AlphaFold).
-#   Ensures uniform hydrogen-bond pattern calculation across all target structures.
+#   experimental X-ray structures with AI-predicted models (e.g., AlphaFold).
+#   Generates uniform HELIX/SHEET PDB header records for precise PyMOL visualization.
+#
+# Option Descriptions:
+#   -x : Clears existing/legacy secondary structure records from the PDB header 
+#        to ensure clean, unbiased assignment purely based on DSSP.
+#   -3 : Converts 3_10-helices (DSSP code 'G') to PDB HELIX records for cartoon display.
 # ==============================================================================
 
 dssp -i structure.pdb -o structure.dssp
