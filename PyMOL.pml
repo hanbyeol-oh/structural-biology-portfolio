@@ -10,12 +10,13 @@
 # Use CEalign for sequence-independent structural superposition (Ideal for AI models/homologs)
 cealign obj01, obj02
 
-# Representation & Color Settings
+# Representation & Color Settings for macromolecules representation (Protein & Nucleic Acids)
 hide everything
 show cartoon
+color cyan, obj02
 
-# Macromolecules Representation (Protein & Nucleic Acids)
-show cartoon
+# Ensures faithful representation of experimental electron density gaps (no pseudo-connections)
+set cartoon_gap_cutoff, 0
 
 # Small-molecule / Chemical Ligands -> Display as Sticks
 show sticks, organic
@@ -29,8 +30,6 @@ color gray80, inorganic
 
 # Apply transparency to template structure for clear comparative visualization
 set cartoon_transparency, 0.5, obj01
-color cyan, obj02
-set cartoon_gap_cutoff, 0
 
 # Interface Residues & Key Interactions
 # Select and display interface contact residues within 4.5 Angstroms
@@ -40,7 +39,6 @@ show sticks, interface_res
 # Highlight specific residues of interest (e.g., Cysteine for disulfide bonds)
 select cys_res, resn cys
 show sticks, cys_res
-set sphere_scale, 0.3
 
 # View Angle & Publication-Quality Rendering
 turn x, 90
@@ -50,5 +48,5 @@ set ray_shadows, 0
 set ray_opaque_background, 0
 
 # High-resolution ray tracing and file export
-ray 2400, 2400
+ray 2400
 png figure.png, dpi=300
