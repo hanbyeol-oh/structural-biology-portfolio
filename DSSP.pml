@@ -6,5 +6,8 @@
 #   Ensures uniform hydrogen-bond pattern calculation across all target structures.
 # ==============================================================================
 
-dssp -i strucure.pdb -o strucure.dssp
-dssp2pdb strucure.dssp strucure.pdb > strucure_dssp.pdb
+dssp -i structure.pdb -o structure.dssp
+dssp2pdb -x structure.dssp structure.pdb > structure_dssp.pdb
+
+# Re-assign secondary structure headers to PDB with 3_10-helix & clean overwrite
+dssp2pdb -x -3 structure.dssp structure.pdb > structure_dssp.pdb
